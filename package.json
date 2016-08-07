@@ -1,0 +1,39 @@
+{ "name": "getoraddkey-fancy",
+  "version": "0.0.1",
+  "description": "If your collection is missing the slot you want to work with, have it be created on the fly. Kitchen sink edition for async factory functions and custom preconfiguration.",
+  "keywords": [
+    "dict",
+    "has",
+    "async",
+    "kitchen sink"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/getoraddkey-fancy-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/getoraddkey-fancy-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/getoraddkey-fancy-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "goak-fancy.js",
+  "scripts": {
+    "test": "demo-util-160404-test-demos"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "dependencies": {},
+  "devDependencies": {
+    "lib-demo-util-160404": "^0.1.0"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
