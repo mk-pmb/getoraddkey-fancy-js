@@ -1,6 +1,14 @@
 ﻿
 getoraddkey-fancy
 =================
+
+### Project on hiatus
+
+… because currently, the `-simple` edition works fine for me.
+If you need fancy, tell me why and I might resume it.
+
+------
+
 If your collection is missing the slot you want to work with,
 have it be created on the fly.
 
@@ -8,7 +16,7 @@ The kitchen sink edition supports async factory functions
 and custom preconfiguration. If you prefer a leight-weight
 approach, check out [getoraddkey-simple][goa-simple].
 
-Inspired by [lodash feature request #2288](ld-is2288).
+Inspired by [lodash feature request #2288][ld-is2288].
 
 
 
